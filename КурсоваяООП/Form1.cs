@@ -12,7 +12,6 @@ namespace КурсоваяООП
             InitializeComponent();
             openFileDialog1.Filter = "Text files(*.txt)|*.txt|All files(*.*)|*.*";
             saveFileDialog1.Filter = "Text files(*.txt)|*.txt|All files(*.*)|*.*";
-
         }
 
         //открыть файл
